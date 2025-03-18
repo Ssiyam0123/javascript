@@ -1,0 +1,1 @@
+const student = 40;
