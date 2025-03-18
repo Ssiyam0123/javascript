@@ -1,0 +1,1 @@
+const studyHour = 2;
